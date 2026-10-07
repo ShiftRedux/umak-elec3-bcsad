@@ -97,7 +97,7 @@ No. The private subnet has no route to the internet gateway, and with no NAT gat
 
 | Rule number | Source | Allow or Deny |
 | --- | --- | --- |
-| `100` | `0.0.0.0/0  ` | `Allow`> |
+| `100` | `0.0.0.0/0  ` | `Allow` |
 | `*` | `0.0.0.0/0  ` | `Deny` |
 
 How is a network ACL different from a security group?
